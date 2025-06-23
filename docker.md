@@ -1,0 +1,1 @@
+docker run -d -p 8000:80 --name main -v /home/www/main/html:/usr/share/nginx/html -v /home/www/main/conf/nginx.conf:/etc/nginx/nginx.conf -v /home/www/main/logs:/var/log/nginx nginx:1.17.8
