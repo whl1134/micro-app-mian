@@ -1,0 +1,1 @@
+import{_ as n,c as t,a as l,o as a}from"./index-RO7SmJEO.js";const d={};function i(o,e){return a(),t("div",null,e[0]||(e[0]=[l("div",null,"PMS",-1),l("div",null,"EMS",-1),l("div",null,"System",-1),l("div",null,"mall-amin",-1),l("div",null,"help",-1),l("div",null,"zj020",-1)]))}const s=n(d,[["render",i]]);export{s as default};

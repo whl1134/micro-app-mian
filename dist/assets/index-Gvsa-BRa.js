@@ -1,0 +1,1 @@
+import{c as s,o as a}from"./index-RO7SmJEO.js";const m={__name:"index",setup(n){const e=useRoute(),t=useRouter(),{params:o,query:r}=e,{path:c}=o;return t.replace({path:`/${c}`,query:r}),(u,p)=>(a(),s("div"))}};export{m as default};

@@ -1,0 +1,1 @@
+import{_ as r}from"./ErrorPage-CMcyw6q2.js";import{m as e,o}from"./index-RO7SmJEO.js";const m=Object.assign({name:"Error404"},{__name:"404",setup(a){return(c,s)=>(o(),e(r,{code:404}))}});export{m as default};

@@ -1,0 +1,1 @@
+import{s,u as n,b as m,d as t,r as u}from"./index-RO7SmJEO.js";const l=()=>{var a;const o=n(),r=m();console.log(s,o);const e=(a=o.params)==null?void 0:a.name;return(!e||!s[e])&&r.replace({path:"/403"}),t("div",{className:"system-container"},[t(u("micro-app"),{name:e,url:s[e]},null)])};export{l as default,l as system};
